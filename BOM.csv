@@ -1,0 +1,15 @@
+NAME,PURPOSE,QTY,TOTAL (INR),LINK,DISTRIBUTOR
+WLY602040 3.7V 400mAh 1S LiPo Battery,The main battery,1,219,https://robu.in/product/400mah-pcm-protected-micro-li-po-battery/,ROBU
+ATTINY1614-SSN-MICROCHIP-8 Bit MCU,The main MCU,1,185,https://robu.in/product/attiny1614-ssn-microchip-8-bit-mcu-avr-family-attiny161x-series-microcontrollers-avr-20-mhz-16-kb-14-pins-soic/,ROBU
+5730 RED SMD LED,Main taillight and brake LEDs,10,45.1,https://robu.in/product/1-month-warranty-139/,ROBU
+AO3400 MOSFET,Switch for the LED array,5,20.45,https://robu.in/product/ao3400-hxy-mosfet-30v-5-8a-30m%cf%8910v5-8a-1-4w-700mv-1-n-channel-sot-23-mosfets-rohs/,ROBU
+LIS3DH Breakout,Accelerometer for braking detection,1,137,https://robu.in/product/smartelex-triple-axis-accelerometer-breakout-lis3dh/,ROBU
+Half-Pitch 4-Position DIP Switch,Controls for different modes,1,40,https://robu.in/product/1-27-4p-tppt-shou-han-4-positions-spst-24v-black-25ma-3000-times-flat-toggle-slotted-smd-dip-switches-rohs/,ROBU
+Half-Pitch 1-Position DIP Switch,Main on and off switch,1,46,https://robu.in/product/1-27-1p-tppt-shou-han-1-digit-spst-24v-black-25ma-3000-times-flat-toggle-slotted-smd-dip-switches-rohs/,ROBU
+AO3407 MOSFET,Main power switch for the system,2,14,https://robu.in/product/ao3407-xblw-30v-4-1a-55m%cf%8910v3a-1-32w-1-2v250ua-1-piece-p-channel-sot-23-3l-mosfets-rohs/,ROBU
+TP4057 Charging IC,Charging IC,1,21,https://robu.in/product/tp4057-top-power-asic-4-2v-500ma-lithium-battery-charging-management-ic-6pin-sot-23-reverse-polarity-protection/,ROBU
+0603 RED SMD LED,Charging indicator LED,19,10.07,https://robu.in/product/xl-1608surc-04-xinglight-20ma-360mcd-colorless-transparent-lens-615nm625nm-20%e2%84%8385%e2%84%83-positive-stick-red-120-50mw-2-4v-0603-led-indication-discrete-rohs/,ROBU
+0603 BLUE SMD LED,Charge full indicator LED,15,10.5,https://robu.in/product/xl-1608ubc-04-xinglight-20ma-240mcd-colorless-transparent-lens-20%e2%84%8385%e2%84%83-positive-stick-455nm475nm-blue-120-70mw-3-3v-0603-led-indication-discrete-rohs/,ROBU
+USB-C SMD Receptacle,Charging port,1,38,https://robu.in/product/type-c-31-m-12-hroparts-5a-1-16p-female-type-c-smd-usb-connectors-rohs/,ROBU
+ESD-15 Curved Tweezers,Tweezers to place the parts,1,35,https://robu.in/product/curved-tweezers-esd-15/,ROBU
+Mechanic V-Series Solder Paste(42g),Solder paste for the sand bath,1,345,https://makerbazar.in/products/mechanic-solder-paste-smd-bga-smt-rework?variant=48828760359152&country=IN&currency=INR,MakerBazar
